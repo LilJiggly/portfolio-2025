@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Nederlandse Musea",
+    "thumbnail": "images/1.png",
+    "backgroundColor": "#483D8B",
+    "techStack": ["React", "Node.js", "MongoDB"],
+    "cta": {
+      "url": "https://liljiggly.github.io/Dutch-Museums/"
+    }
+  },
+  {
+    "title": "FranxVan",
+    "thumbnail": "images/3.png",
+    "backgroundColor": "#FF4500",
+    "techStack": ["Figma", "React Native", "Firebase"],
+    "cta": {
+      "url": "https://liljiggly.github.io/franxvan/"
+    }
+  },
+  {
+    "title": "Destined Rivals Card Tracker",
+    "thumbnail": "images/2.png",
+    "backgroundColor": "#8B0000",
+    "techStack": ["D3.js", "Python", "PostgreSQL"],
+    "cta": {
+      "url": "https://liljiggly.github.io/Destined-Rivals-Card-Tracker/"
+    }
+  },
+  {
+    "title": "My Garden Guide",
+    "thumbnail": "images/7.png",
+    "backgroundColor": "#556B2F",
+    "techStack": ["Adobe Creative Suite", "Figma"],
+    "cta": {
+      "url": "https://liljiggly.github.io/My-Garden-Guide-Alpha/"
+    }
+  },
+  {
+    "title": "Pokemon Pack Opener",
+    "thumbnail": "images/6.png",
+    "backgroundColor": "#CD5C5C",
+    "techStack": ["Express.js", "Docker", "AWS"],
+    "cta": {
+      "url": "https://liljiggly.github.io/Destined-Rivals-Pack-Opener/"
+    }
+  },
+  {
+    "title": "Platformer",
+    "thumbnail": "images/8.png",
+    "backgroundColor": "#a8edea",
+    "techStack": ["Express.js", "Docker", "AWS"],
+    "cta": {
+      "url": "https://liljiggly.github.io/Platformer/"
+    }
+  },
+  {
+    "title": "Eenzaam",
+    "thumbnail": "images/5.png",
+    "backgroundColor": "#191919",
+    "techStack": ["Express.js", "Docker", "AWS"],
+    "cta": {
+      "url": "https://liljiggly.github.io/Eenzaam/"
+    }
+  },
+  {
+    "title": "Super Tomato World",
+    "thumbnail": "images/4.png",
+    "backgroundColor": "#FF0000",
+    "techStack": ["Express.js", "Docker", "AWS"],
+    "cta": {
+      "url": "https://liljiggly.github.io/SuperTomatoWorld/"
+    }
+  }
+]
